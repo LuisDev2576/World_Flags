@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><strong>WOLD FLAGS</strong></h1>
+<h1 style="text-align: center;"><strong>WORLD FLAGS</strong></h1>
 <img src="https://github.com/LuisDev2576/World_Flags/assets/123314822/f5733443-60d9-427c-8c9f-bfe619ea0551" alt="World Flags banner">
 
 # 🛠 &nbsp;Tech Stack 
