@@ -32,7 +32,7 @@ optimizada y atractiva para explorar datos sobre países.
 *  Extended Icons de Material Design: Proporciona una vasta colección de iconos para mejorar la interfaz de usuario.
 
 # 📥 &nbsp;Download
-<a href="https://drive.google.com/file/d/1K8VWQDm6CSTia4Ry42fUvpAM4XRRhOLs/view?usp=sharing">
+<a href="https://play.google.com/store/apps/details?id=com.proyect.worldflags">
   <img src="https://github.com/LuisDev2576/World_Flags/assets/123314822/74a99d35-a7c7-43d3-b7a9-cd1bc803584d" width = 250px alt="Play Store">
 </a>
 
